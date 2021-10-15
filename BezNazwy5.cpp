@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 // Zadanie 5.
-// Napisz program z wykorzystaniem long oraz wskazany algorytm.
+// Napisz program z wykorzystaniem long oraz wskazany algorytm. Nie pamiętam tego zadania oraz użytego algorytmu.
 using namespace std;
  
 int main() {
